@@ -1,5 +1,5 @@
-# prueba
-repositorio de prueba
+# pruebas
+repositorio de prueba  
 
 Esto es una lista:
 
