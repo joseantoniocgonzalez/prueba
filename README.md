@@ -1,4 +1,4 @@
-# prueba
+# pruebas
 repositorio de prueba
 
 Esto es una lista:
